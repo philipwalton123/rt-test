@@ -1,0 +1,11 @@
+{
+    "development": {
+      "aws_region": "eu-west-1",
+      "username": "admin",
+      "database": "mysql",
+      "host": "retro-tools-dev-db.cgc09trczuwn.eu-west-1.rds.amazonaws.com",
+      "port": 3306
+    }
+}
+
+  

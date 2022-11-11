@@ -1,0 +1,19 @@
+{
+    "ticketsData": [
+        {
+          "name": "ticket 1",
+          "description": "the first ticket",
+          "category": "work"
+        },
+        {
+          "name": "ticket 2",
+          "description": "the second ticket",
+          "category": "work"
+        },
+        {
+          "name": "ticket 3",
+          "description": "the third ticket",
+          "category": "play"
+        }
+      ]
+}
